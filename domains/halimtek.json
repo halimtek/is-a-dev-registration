@@ -1,1 +1,9 @@
-
+{
+    "owner": {
+        "username": "halimtek",
+        "email": "abdihaim487@gmail.com"
+    },
+    "records": {
+        "CNAME": "halimtek.vercel.app"
+    }
+}
